@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Hello everybody!
